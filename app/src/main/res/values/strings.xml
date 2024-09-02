@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Split-It</string>
+    <string-array name="no_of_user">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="item_type_list">
+        <item>Groceries</item>
+        <item>Household Supplies</item>
+        <item>One-Time Purchases</item>
+        <item>Bills</item>
+        <item>Others</item>
+    </string-array>
+</resources>
